@@ -19,6 +19,7 @@
 		9C2ECEBF23E866F1002D392D /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2ECEBE23E866F1002D392D /* NewPlaceViewController.swift */; };
 		9C2ECEC123E95E7B002D392D /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2ECEC023E95E7B002D392D /* StorageManager.swift */; };
 		9C2ECEC323EABB8F002D392D /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2ECEC223EABB8F002D392D /* RatingControl.swift */; };
+		9C65BD5523F3E521001D1270 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9C65BD5423F3E521001D1270 /* .gitignore */; };
 		9C9F1FCC23EC0B27004C7CFD /* MapManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9F1FCB23EC0B27004C7CFD /* MapManager.swift */; };
 		9CB25AC623EB0B0B0099225B /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB25AC523EB0B0B0099225B /* MapViewController.swift */; };
 /* End PBXBuildFile section */
@@ -38,6 +39,7 @@
 		9C2ECEBE23E866F1002D392D /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 		9C2ECEC023E95E7B002D392D /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		9C2ECEC223EABB8F002D392D /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		9C65BD5423F3E521001D1270 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		9C9F1FCB23EC0B27004C7CFD /* MapManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapManager.swift; sourceTree = "<group>"; };
 		9CB25AC523EB0B0B0099225B /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		A5A72B7D8C2E783468FC2269 /* Pods-UITableView APP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableView APP.debug.xcconfig"; path = "Target Support Files/Pods-UITableView APP/Pods-UITableView APP.debug.xcconfig"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 		9C2ECE9423E80F4B002D392D = {
 			isa = PBXGroup;
 			children = (
+				9C65BD5423F3E521001D1270 /* .gitignore */,
 				9C2ECE9F23E80F4B002D392D /* UITableView APP */,
 				9C2ECE9E23E80F4B002D392D /* Products */,
 				9768773EAD13FDCF7017CFF5 /* Pods */,
@@ -212,6 +215,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C65BD5523F3E521001D1270 /* .gitignore in Resources */,
 				9C2ECEAD23E80F4E002D392D /* LaunchScreen.storyboard in Resources */,
 				9C2ECEAA23E80F4E002D392D /* Assets.xcassets in Resources */,
 				9C2ECEA823E80F4B002D392D /* Main.storyboard in Resources */,
