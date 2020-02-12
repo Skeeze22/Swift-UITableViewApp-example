@@ -31,6 +31,7 @@ class MainViewController: UIViewController, UITableViewDataSource, UITableViewDe
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("включился")
         places = realm.objects(Place.self)
         
         searchController.searchResultsUpdater = self
